@@ -1,3 +1,6 @@
+h1 {
+    font-size: 0em; /* 可以根据需要调整 */
+}
 .box2 {
     height: 86px;
     cursor: pointer;
